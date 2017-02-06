@@ -2,6 +2,7 @@
 
 > Simple Progress Bar for React Native.
 
+![](screenshot.png)
 
 ## Install
 

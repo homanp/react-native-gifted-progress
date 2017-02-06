@@ -7,7 +7,7 @@ import {
 export default class ProgressBar extends Component {
 
   constructor(props) {
-    super(props);
+    super(props); 
     this.state = {
       progressWidth: 0,
     };
