@@ -1,0 +1,24 @@
+{
+  "name": "react-native-gifted-progress",
+  "version": "1.0.0",
+  "description": "Simple Progress Bar for React Native",
+  "license": "MIT",
+  "repository": "homanp/react-native-gifted-progress",
+  "author": {
+    "name": "Ismail Pelaseyed",
+    "email": "homanp@gmail.com",
+    "url": "github.com/homanp"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "react native",
+    "progress",
+    "bar"
+  ],
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.40.0",
+  }
+}
