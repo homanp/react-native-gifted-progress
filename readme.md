@@ -14,15 +14,27 @@ $ npm install --save react-native-gifted-progress
 
 ```js
 import React, { Component } from 'react';
+import { View } from 'react-native';
 import ProgressBar from 'react-native-gifted-progress';
 
-export default App = () => (
-  <ProgressBar
-    barColor={'#40C74B'}
-    progress={20}
-    barBackgroundColor={'#242F37'}
-  />
-);
+
+export default class MyComponent extends Component {
+  
+  ...
+
+  render() {
+    return (
+      <ProgressBar
+        barColor={'#40C74B'}
+        progress={20}
+        barBackgroundColor={'#242F37'}
+      />
+    );
+  }
+
+  ...
+  
+}
 ```
 
 
