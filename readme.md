@@ -1,4 +1,4 @@
-# react-native-gifted-progress [![Build Status](https://travis-ci.org/homanp/react-native-gifted-progress.svg?branch=master)](https://travis-ci.org/homanp/react-native-gifted-progress)
+# react-native-gifted-progress
 
 > Simple Progress Bar for React Native.
 
